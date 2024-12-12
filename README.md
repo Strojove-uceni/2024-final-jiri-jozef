@@ -16,7 +16,18 @@ V rámci našeho projektu jsme si vytičili cíl vytvořit webovou stránku, kte
 
 -------------------------------------
 **Použité metody**\
-Pro klasifikaci obrázku z datasetu jsme porovnali tři předtrénované modely: Resnet50, Resnet101 a Densenet121
+Pro klasifikaci obrázků z datasetu jsme otestovali tři předtrénované modely: **ResNet50**, **ResNet101** a **DenseNet121**. 
+
+- U modelů **ResNet** jsme dosáhli shodné přesnosti **0,98**, přičemž hlavním rozdílem mezi nimi byla rychlost trénování – **ResNet50** byl nejrychlejší.  
+- Naopak u modelu **DenseNet121** byla dosažená přesnost nižší, pouze **0,86**.
+
+Pro zlepšení výsledků jsme použili následující optimalizační techniky:
+- **Augmentace dat**: Rozšíření a obohacení trénovacího datasetu pro lepší generalizaci modelu.  
+- **Random dropout**: Minimalizace rizika přeučení během trénování.  
+- **Adam optimizer**: Efektivní optimalizační algoritmus pro řízení učení.  
+
+Tyto kroky přispěly ke stabilitě a vysoké přesnosti modelů, zejména u ResNetů.
+
 
 
 -------------------------------------
