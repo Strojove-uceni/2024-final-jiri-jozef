@@ -16,7 +16,7 @@ V rámci našeho projektu jsme si vytičili cíl vytvořit webovou stránku, kte
 
 -------------------------------------
 **Použité metody**\
-
+Pro klasifikaci obrázku z datasetu jsme porovnali tři předtrénované modely: Resnet50, Resnet101 a Densenet121
 
 
 -------------------------------------
