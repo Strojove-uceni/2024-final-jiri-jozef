@@ -29,4 +29,4 @@ Pro zlepšení výsledků jsme použili následující optimalizační techniky:
 Tyto kroky přispěly ke stabilitě a vysoké přesnosti modelů, zejména u ResNetů.
 
 -------------------------------------
-**Výsledek a možné rozšíření do budoucna**\
+**Výsledek a možné rozšíření**\
