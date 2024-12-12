@@ -7,8 +7,10 @@
 **Webová stránka pro zpracování lékařských snímků**
 -------------------------------------
 **Autoři**\
-  Jiří Viták\
-  Jozef Hrdý
+  Bc. Jiří Viták\
+  Bc. Jozef Hrdý
+  
+-------------------------------------
 **Popsání problému**\
 V rámci našeho projektu jsme si vytičili cíl vytvořit webovou stránku, která umožní uživatelům nahrát sken lékařské zprávy týkající se například jejich plic. Na základě již natrénovaných modelů stránka dokáže analyzovat nahrané snímky a poskytnout uživateli přehled o možných diagnózách. Při tvorbě projektu jsme se zaměřili na dataset obsahující skeny plic, přičemž vytvořený model rozlišuje mezi třemi kategoriemi: zdravé plíce, zápal plic a Covid-19. Tato stránka usnadní proces předběžné diagnostiky a poskytne uživateli důležité informace rychle a jednoduše. 
 
