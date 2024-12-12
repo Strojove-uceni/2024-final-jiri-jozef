@@ -40,3 +40,8 @@ Náhled webového rozhraní
 
 Aplikace může být poté rozšiřována pro anazýlu různých symptomů a zdravotních problémů. Tato verze vedle skenů plyc vyhodnocuje pomocí druhého modelu také výskyt nádorů na mozku.
 
+
+![image](https://github.com/user-attachments/assets/608051ad-b8b9-4080-b1c8-83c406a85db1)
+
+
+
